@@ -1,0 +1,12 @@
+/home/ki7mt/src/Hellomvc/Hellomvc
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=Hellomvc
+--content-root=/home/ki7mt/src/Hellomvc/Hellomvc
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/Home/About.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/Home/Contact.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/Home/Index.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/Shared/Error.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/Shared/_Layout.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/_ViewImports.cshtml
+--file=/home/ki7mt/src/Hellomvc/Hellomvc/Views/_ViewStart.cshtml

@@ -1,0 +1,10 @@
+/home/ki7mt/src/Hellomvc/Hellomvc/bin/Release/netcoreapp2.0/Hellomvc.deps.json
+/home/ki7mt/src/Hellomvc/Hellomvc/bin/Release/netcoreapp2.0/Hellomvc.runtimeconfig.json
+/home/ki7mt/src/Hellomvc/Hellomvc/bin/Release/netcoreapp2.0/Hellomvc.runtimeconfig.dev.json
+/home/ki7mt/src/Hellomvc/Hellomvc/bin/Release/netcoreapp2.0/Hellomvc.dll
+/home/ki7mt/src/Hellomvc/Hellomvc/bin/Release/netcoreapp2.0/Hellomvc.pdb
+/home/ki7mt/src/Hellomvc/Hellomvc/obj/Release/netcoreapp2.0/Hellomvc.csproj.CoreCompileInputs.cache
+/home/ki7mt/src/Hellomvc/Hellomvc/obj/Release/netcoreapp2.0/Hellomvc.AssemblyInfoInputs.cache
+/home/ki7mt/src/Hellomvc/Hellomvc/obj/Release/netcoreapp2.0/Hellomvc.AssemblyInfo.cs
+/home/ki7mt/src/Hellomvc/Hellomvc/obj/Release/netcoreapp2.0/Hellomvc.dll
+/home/ki7mt/src/Hellomvc/Hellomvc/obj/Release/netcoreapp2.0/Hellomvc.pdb
