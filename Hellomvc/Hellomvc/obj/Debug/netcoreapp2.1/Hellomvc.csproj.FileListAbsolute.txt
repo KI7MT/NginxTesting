@@ -1,0 +1,11 @@
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\bin\Debug\netcoreapp2.1\Hellomvc.deps.json
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\bin\Debug\netcoreapp2.1\Hellomvc.runtimeconfig.json
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\bin\Debug\netcoreapp2.1\Hellomvc.runtimeconfig.dev.json
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\bin\Debug\netcoreapp2.1\Hellomvc.dll
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\bin\Debug\netcoreapp2.1\Hellomvc.pdb
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\obj\Debug\netcoreapp2.1\Hellomvc.csprojResolveAssemblyReference.cache
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\obj\Debug\netcoreapp2.1\Hellomvc.csproj.CoreCompileInputs.cache
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\obj\Debug\netcoreapp2.1\Hellomvc.AssemblyInfoInputs.cache
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\obj\Debug\netcoreapp2.1\Hellomvc.AssemblyInfo.cs
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\obj\Debug\netcoreapp2.1\Hellomvc.dll
+D:\Repos\Git\Projects\CSharp\NginxTesting\Hellomvc\Hellomvc\obj\Debug\netcoreapp2.1\Hellomvc.pdb
